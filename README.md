@@ -1,2 +1,2 @@
-# android-certifications
+# Google: Associate Android Developer (AAD)
 The Associate Android Developer Certification from Google is a performance-based exam focused on demonstrating competency and skill in the tasks Android developers most frequently perform. This path will help you prepare for the Associate Android Developer Certification exam and provide you with a strong foundation in the skills necessary to work effectively as an Android developer.
